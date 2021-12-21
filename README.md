@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
+```text
+Python     1 hr 21 mins    ███████████████████▒░░░░░   77.36 % 
+Markdown   23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 % 
+```
 <!--END_SECTION:waka-->
 
 ![hao1305430263's Github stats](https://github-readme-stats.vercel.app/api?username=hao1305430263&show_icons=true)
