@@ -17,3 +17,4 @@ jobs:
       - uses: hao1305430263/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_README }}
+          SHOW_TITLE: true
