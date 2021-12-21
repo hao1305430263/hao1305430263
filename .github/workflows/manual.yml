@@ -17,4 +17,4 @@ jobs:
       - uses: MartinYan623/waka-readme@master
       - uses: 1305430263/hao1305430263@main
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_readme }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_README }}
