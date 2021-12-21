@@ -14,6 +14,6 @@ jobs:
     name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
-      - uses: hao1305430263/hao1305430263@main
+      - uses: hao1305430263/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_README }}
