@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm hao1305430263.</h2>
+<p align="center">
+---- 
+📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -8,7 +11,7 @@ Python     1 hr 21 mins    █████████████████�
 Markdown   23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 % 
 ```
 <!--END_SECTION:waka-->
-
+----
 ![hao1305430263's Github stats](https://github-readme-stats.vercel.app/api?username=hao1305430263&show_icons=true)
 
 
