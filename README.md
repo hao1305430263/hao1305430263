@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hao1305430263's Github stats](https://github-readme-stats.vercel.app/api?username=xxx&show_icons=true)
+
+
 <!--
 **hao1305430263/hao1305430263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
