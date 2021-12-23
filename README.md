@@ -6,11 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
-Python     4 hrs 40 mins   ██████████████████▓░░░░░░   74.98 % 
-MATLAB     1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Markdown   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Python     9 hrs 3 mins    ████████████████████▒░░░░   81.78 % 
+MATLAB     1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Markdown   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 <!--END_SECTION:waka-->
 ----
