@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
 Python     9 hrs 46 mins   ███████████████████▒░░░░░   77.14 % 
 MATLAB     2 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
