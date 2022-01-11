@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 Python   2 hrs 27 mins   ██████████████░░░░░░░░░░░   55.92 % 
 TeX      1 hr 37 mins    █████████▒░░░░░░░░░░░░░░░   37.05 % 
