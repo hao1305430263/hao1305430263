@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
-Python       6 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.00 % 
-TeX          3 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
-Other        2 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
-YAML         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python       5 hrs 8 mins    ████████████░░░░░░░░░░░░░   47.57 % 
+TeX          3 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
+Other        2 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+YAML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 <!--END_SECTION:waka-->
 ----
