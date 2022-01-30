@@ -6,11 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2022 - 28 January, 2022
-
-PHP      19 mins         ██████████████████░░░░░░░   72.20 % 
-Python   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Other    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ----
