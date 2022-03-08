@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 February, 2022 - 06 March, 2022
+Week: 01 March, 2022 - 07 March, 2022
 
 TeX      2 hrs 51 mins   █████████████████████████   99.81 % 
 ```
