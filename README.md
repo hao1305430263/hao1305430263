@@ -6,9 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 March, 2022 - 10 March, 2022
+Week: 05 March, 2022 - 11 March, 2022
 
-Markdown   16 mins         █████████████████████████   100.00 % 
+Python     23 mins         ██████████████▓░░░░░░░░░░   58.49 % 
+Markdown   16 mins         ██████████▒░░░░░░░░░░░░░░   41.51 % 
 ```
 <!--END_SECTION:waka-->
 ----
