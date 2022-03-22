@@ -6,10 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 March, 2022 - 20 March, 2022
+Week: 15 March, 2022 - 21 March, 2022
 
-Python     8 hrs 55 mins   ████████████████████████░   95.96 % 
-MATLAB     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python   12 hrs 18 mins  █████████████████████████   99.73 % 
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 ----
