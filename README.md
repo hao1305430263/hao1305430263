@@ -6,13 +6,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2022 - 13 April, 2022
+Week: 08 April, 2022 - 14 April, 2022
 
-Python       7 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   45.03 % 
-TeX          5 hrs 30 mins   ████████▓░░░░░░░░░░░░░░░░   34.78 % 
-Other        2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TeX          7 hrs 12 mins   █████████████▒░░░░░░░░░░░   52.83 % 
+Python       4 hrs 19 mins   ████████░░░░░░░░░░░░░░░░░   31.69 % 
+Other        1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 <!--END_SECTION:waka-->
 ----
