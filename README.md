@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2022 - 20 May, 2022
+Week: 15 May, 2022 - 21 May, 2022
 
 Python     2 hrs 50 mins   ██████████████████████░░░   88.37 % 
 TeX        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
