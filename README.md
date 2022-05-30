@@ -6,9 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 May, 2022 - 28 May, 2022
+Week: 23 May, 2022 - 29 May, 2022
 
-Python   5 hrs 47 mins   █████████████████████████   100.00 % 
+Python   9 hrs 19 mins   ████████████████████████░   96.65 % 
+JSON     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
 ----
