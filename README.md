@@ -6,10 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 June, 2022 - 14 June, 2022
+Week: 09 June, 2022 - 15 June, 2022
 
-Python       2 hrs 12 mins   ███████████████████████░░   91.75 % 
-Git Config   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Python       1 hr 55 mins    █████████████████████████   99.67 % 
 ```
 <!--END_SECTION:waka-->
 ----
