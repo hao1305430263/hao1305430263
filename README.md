@@ -6,10 +6,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2022 - 17 June, 2022
+Week: 12 June, 2022 - 18 June, 2022
 
-TeX      1 hr 39 mins    █████████████▒░░░░░░░░░░░   53.95 % 
-Python   1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   46.05 % 
+TeX      2 hrs 27 mins   ███████████████░░░░░░░░░░   60.29 % 
+Python   1 hr 25 mins    ████████▓░░░░░░░░░░░░░░░░   34.81 % 
+BibTeX   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 <!--END_SECTION:waka-->
 ----
