@@ -6,10 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 July, 2022 - 18 July, 2022
+Week: 13 July, 2022 - 19 July, 2022
 
-JSON     18 mins         █████████████▒░░░░░░░░░░░   52.75 % 
-Python   16 mins         ███████████▒░░░░░░░░░░░░░   45.71 % 
+
 ```
 <!--END_SECTION:waka-->
 ----
