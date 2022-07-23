@@ -6,9 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2022 - 21 July, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ----
