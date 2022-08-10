@@ -6,12 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2022 - 06 August, 2022
+Week: 03 August, 2022 - 09 August, 2022
 
-TeX          8 hrs 36 mins   ███████████████████████▒░   93.63 % 
-Vim Script   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-BibTeX       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TeX          23 mins         ███████████████████████░░   91.91 % 
+Vim Script   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 ```
 <!--END_SECTION:waka-->
 ----
