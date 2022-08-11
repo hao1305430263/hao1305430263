@@ -6,10 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2022 - 09 August, 2022
-
-TeX          23 mins         ███████████████████████░░   91.91 % 
-Vim Script   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ----
