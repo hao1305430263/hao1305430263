@@ -6,7 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 August, 2022 - 13 August, 2022
+
+TeX      3 hrs 51 mins   █████████████████████████   99.53 % 
 ```
 <!--END_SECTION:waka-->
 ----
