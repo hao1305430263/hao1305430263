@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2022 - 16 August, 2022
+Week: 11 August, 2022 - 17 August, 2022
 
 TeX      3 hrs 51 mins   █████████████████████████   99.53 % 
 ```
