@@ -6,13 +6,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2022 - 24 August, 2022
+Week: 19 August, 2022 - 25 August, 2022
 
-Python       12 hrs 32 mins  █████████████████░░░░░░░░   68.34 % 
-Vim Script   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-YAML         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Bash         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Markdown     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Python       15 hrs 12 mins  █████████████████▒░░░░░░░   69.67 % 
+Vim Script   1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+YAML         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Markdown     55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
 ----
