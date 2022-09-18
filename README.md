@@ -6,12 +6,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 September, 2022 - 16 September, 2022
+Week: 11 September, 2022 - 17 September, 2022
 
-Python       9 hrs 32 mins   ████████████████████▓░░░░   82.80 % 
-Bash         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-JSON         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Text         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python       9 hrs 26 mins   ████████████████████▓░░░░   82.64 % 
+Bash         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Text         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
