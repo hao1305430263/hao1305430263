@@ -6,13 +6,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2022 - 23 September, 2022
+Week: 18 September, 2022 - 24 September, 2022
 
-TeX          10 hrs 50 mins  █████████████████████░░░░   83.63 % 
-Python       1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Vim Script   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+TeX           17 hrs 50 mins  ███████████████████████▒░   93.85 % 
+Vim Script    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Python        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Objective-C   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+BibTeX        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 ----
