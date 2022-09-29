@@ -6,13 +6,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2022 - 27 September, 2022
+Week: 22 September, 2022 - 28 September, 2022
 
-TeX           12 hrs 2 mins   █████████████████████▓░░░   86.07 % 
-Python        1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Objective-C   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Text          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-YAML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TeX           12 hrs 15 mins  █████████████████░░░░░░░░   68.10 % 
+Python        4 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Text          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+YAML          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Objective-C   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 <!--END_SECTION:waka-->
 ----
